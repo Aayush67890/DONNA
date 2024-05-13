@@ -1,5 +1,5 @@
 #Author :- THE MONSTER
-#Github:-https://github.com/SHOAIB-404
+#Github:-https://github.com/Aayush67890
 #Telegram:- https://t.me/The_Monster_401
 # Time : Sun Jan 28 19:54:19 2024
 # -------------------------------
